@@ -1,0 +1,16 @@
+.swatches {
+    box-sizing: border-box;
+}
+
+.swatches ul {
+    list-style: none;
+    padding: 0;
+}
+
+.swatches ul li {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+    cursor: pointer;
+}
